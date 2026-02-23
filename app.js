@@ -1,17 +1,16 @@
- ("óla mundo")
+console.log ("óla mundo")
 let nome = "nicolas"
 let idade = 17;
-("seu nome é nicolas")
-("sua idade é 17 anos")
+console.log("seu nome é nicolas")
+console.log("sua idade é 17 anos")
 if (idade >= 18){
-    ("você é maior de idade");
+    console.log("você é maior de idade");
 }else{
-     ("você é menor de idade");
+    console.log ("você é menor de idade");
 }
 {let nota = 5
 if (nota>=7)
-    ("você está aprovado");
+    console.log("você está aprovado");
 else
-    ("você está reprovado");
-
+    console.log("você está reprovado");
 } 
