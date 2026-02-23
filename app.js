@@ -13,4 +13,4 @@ if (nota>=7)
     console.log("você está aprovado");
 else
     console.log("você está reprovado");
-}
+} bbb
